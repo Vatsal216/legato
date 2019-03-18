@@ -1,0 +1,538 @@
+.bgimg{
+  /* background-image: url(../HTML/m1.jpg); */
+    /* background-color: blue; */
+     height: 800px; 
+     width: 103%;
+     background-size: cover;
+     margin-top: -695px;
+     margin-left: -25px;
+}
+
+  
+
+
+.bigodacity{
+    opacity: 0.6;
+    width: 103%;
+    height: 695px;
+    margin-left: -25px;
+    
+     /* background: rgba(0,0,0,.6); */
+     
+}
+
+
+
+
+ul{
+    list-style-type: none;
+  
+    }
+
+   
+
+ 
+    
+    ul li{
+        color: white;
+        padding: 0px;
+        margin: 0px;
+        display: inline;  
+        margin-left: 30px;
+        float: left;
+        position: relative;
+        left: 680px;
+        top: -20px;
+        font-size: 19px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    
+    
+        
+    }
+    
+    
+    ul li a {
+        padding: 0%;
+        margin: 0%;
+            color: white;
+            /* font-style:  */
+           font-style: 'Lato', 'sans-serif';
+           font-weight: 20px;
+           padding-right: 10px;
+           
+           
+    }
+
+    .h2a{
+        padding: 0px;
+        margin: 0px;
+        position: relative;
+        left: -450px;
+        top: -20px;
+        color: gray;
+    
+    }
+.line{
+    
+    border:1px solid white;
+}
+    .header{
+   padding-top: 40px;
+   padding-left: 120px;
+   z-index: 1;
+  
+ 
+
+    }
+
+    .but1{
+        width: 100px;
+        height: 45px;
+        
+        margin-left: 500px;
+        position: relative;
+        top: 260px;
+        border-radius: 20px;
+        background-color: lightgray;
+
+    }
+
+    .text1{
+        padding-left: 20px;
+       
+        position: relative;
+        top:5px;
+        color: white;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .but2{
+        width: 100px;
+        height: 45px;
+       
+        margin-left: 750px;
+        border-radius: 20px;
+        position: relative;
+        top: 222px;
+        background-color: white;
+        
+    }
+
+    .text2{
+        padding-left: 15px;
+        position: relative;
+        top:5px;
+        color: gray;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .headline{
+        margin-left: 450px;
+        position: relative;
+        top: 130px;
+    }
+
+    .headtxt1{
+        font-size: 34px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        position: relative;
+        top:-120px;
+   
+        /* animation: fly 4s ease-in-out infinite ; */
+    }
+    
+    .counter{
+        width: 103%;
+        height: 250px;
+       
+        margin-left: -25px;
+    }
+
+    .count1{
+        margin-left: 300px;
+        margin-top: 120px;
+        font-size: 24px;
+    }
+    .count1img{
+        width: 45px;
+        height: 45px;
+        margin-left: 320px;
+        margin-top: -250px;
+    }
+
+    .count2{
+        margin-left: 800px;
+        font-size: 24px;
+        margin-top: -110px;
+
+        
+
+    }
+    .count2img{
+        padding: 0px;
+        width: 45px;
+        height: 45px;
+        margin-left: 820px;
+        position: relative;
+        top: -120px;
+    }
+
+  
+  
+
+
+
+
+.zoom9:hover {
+    transform: scale(1.2);
+}
+   
+  
+
+  
+   
+    
+    .image{
+        width: 103%;
+        height: 700px;
+        border: 2px solid white;
+        margin-left: -25px;
+        background-image: url(banner.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        margin-top: 50px;
+
+
+      
+    }
+
+    #join{
+        width: 103%;
+        margin-left: -25px;
+        margin-top: -15px;
+        height: 750px;
+        
+        /* background-image: url(https://previews.123rf.com/images/quartadis/quartadis1804/quartadis180400158/100076806-map-of-the-city-locality-color-scheme-background-gps-navigation-along-the-road-and-streets-flat-vect.jpg); */
+    }
+
+ 
+
+    
+.contact{
+    width: 50%;
+    height: 750px;
+    margin-left: 25%;
+    margin-top: -740px;
+    background-color: white;
+    
+}
+.imgd{
+    width: 100%;
+    height: 300px;
+    border: 1px solid gray; 
+    background-color: gray;
+}
+
+.h1q{
+    margin-left: 32%;
+    margin-top: 15%;
+    color: white;
+}
+
+
+
+
+.contactbg{
+background-image: url(https://previews.123rf.com/images/quartadis/quartadis1804/quartadis180400158/100076806-map-of-the-city-locality-color-scheme-background-gps-navigation-along-the-road-and-streets-flat-vect.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background: rgba(0,0,0,.6);
+width: 100%;
+height: 750px;
+}
+
+.con{
+    padding-top: 10%;
+    margin-left: 20%;
+    
+}
+.blur{
+    width: 100%;
+    margin-left: 0%;
+    height: 750px;
+    position: relative;
+    top: 00px;
+   opacity: 0.5;
+}
+
+
+.nj1{
+    
+    margin-top: -730px;
+   
+    margin-left: -150px;
+}
+
+.nj2{
+margin-left: 350px;
+margin-top: -520px;
+
+}
+
+.nj3{
+    margin-left: 850px;
+   margin-top: -280px;
+   position: relative;
+   
+   box-sizing: border-box;
+    }
+
+
+.imghed{
+position: absolute;
+  top: 55%;
+  left: 50%;
+    width: 500px;
+    height: 280px;
+    transform: translate(-50%, -50%);
+    animation: fly 3s ease-in-out infinite ;
+    overflow: visible;
+}
+
+.imjk{
+
+    width: 100%;
+    height: 100%;
+    overflow: show;
+}
+
+
+.boxa1
+{
+
+    width: 300px;
+    height: 400px;
+    margin-left: 10%;
+    overflow: hidden;
+    background-color: white;
+    margin-top: 60px;
+    position: relative;
+    top: 70px;
+ 
+}
+
+.boxa2
+{
+
+    width: 25%;
+    height: 400px;
+    overflow: hidden;
+     margin-left: 39%; 
+   margin-top: -330px;
+   background-color: white;
+}
+
+.boxa3
+{
+
+    width: 25%;
+    height: 400px;
+    overflow: hidden;
+    margin-left: 68%; 
+    margin-top: -400px;
+    background-color: white;
+
+    
+}
+
+.butl{
+    width: 110px;
+    height: 50px;
+ 
+    border-radius: 24px;
+    margin-left: 100px;
+   
+    background-color: lightblue;
+
+}
+
+.but2al{
+    margin-left: 12px;
+   position: relative;
+   top: 11px;
+   color: white;
+}
+
+.mkv{
+    margin-left: 10px;
+    padding-left: 50px;
+}
+
+.buo{
+    margin-left: 20px;
+}
+
+
+.zoom9{
+    width: 100%;
+    height: 100%;
+    transition: 0.75s;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;  
+    
+}
+  
+.bo{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.bo1{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 50px;
+}
+
+.tt2{
+    color: black;
+    text-align: center;
+    margin-top: -50px;
+}
+
+#bigbox3{
+    width: 103%;
+    margin-left: -25px;
+    height: 600px;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.boztxt{
+
+    width: 335px;
+    height: 250px;
+    
+}
+
+.but2q{
+
+    width: 100px;
+    height: 50px;
+    
+    background-color: lightgrey;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.but2l{
+    font-size: 18px;
+    position: relative;
+    top: 20px;
+}
+
+
+
+
+
+.card{
+  width: 300px;
+  height: 400px;
+  
+  cursor: pointer;
+
+}
+
+.front,.back{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    position: absolute;
+    transition: transform .6s linear;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+  }
+
+  .imgh{
+      background-position: center;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      
+  }
+
+
+  .front{
+    transform: perspective(600px) rotateY(0deg);
+  }
+  .back{
+    background: white;
+    transform: perspective(600px) rotateY(180deg);
+  }
+
+  .card:hover > .front{
+    transform: perspective(600px) rotateY(-180deg);
+  }
+  .card:hover > .back{
+    transform: perspective(600px) rotateY(0deg);
+  }
+
+
+
+ 
+
+  .left{
+    position: absolute;
+    width: 50%;
+    margin-left: 48%;
+    margin-top: -52%;
+    height: 700px;
+      background-color: lightgray;
+      
+  }
+
+
+  .right{
+    position: absolute;
+    width: 50%;
+    margin-top: -52%;
+
+    height: 700px;
+    background-color: white;
+    
+}
+
+
+
+@keyframes fly {
+    0% {
+        transform: translate(-50%, -46%);
+    }
+
+
+    50% {
+        transform: translate(-50%, -54%);
+    }
+
+    100% {
+        transform: translate(-50%, -46%);
+    }
+
+}
+
+
+
+
+
+
